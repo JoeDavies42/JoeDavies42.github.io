@@ -1,2 +1,1 @@
-# Hello World
 There is never a good way to write a first blog post.
